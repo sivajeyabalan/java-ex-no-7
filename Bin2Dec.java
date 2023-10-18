@@ -1,19 +1,11 @@
-/*
-1.Write a program called Bin2Dec to convert an input binary string into its equivalent
-decimal number.
-Sample Output
-Enter a Binary string: 1011
-The equivalent decimal number for binary "1011" is: 11
-Enter a Binary string: 1234
-error: invalid binary string "1234"
-*/
+/
 
 package javaex7;
 import java.util.*;
 
 /**
  *
- * @author VISHWA
+ * @author SIVAJB
  */
 
 public class Bin2Dec
