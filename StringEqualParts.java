@@ -1,17 +1,10 @@
-/*
-2.Write a Java program to divide a string in n equal parts.
-Sample output
-The given string is: abcdefghijklmnopqrstuvwxy
-The string divided into 5 parts and they are: abcde fghij klmno pqrst uvwxy
-*/
-
 package javaex7;
 import java.util.*;
 import java.lang.Math;
 
 /**
  *
- * @author VISHWA
+ * @author SIVAJB
  */
 
 public class StringEqualParts 
