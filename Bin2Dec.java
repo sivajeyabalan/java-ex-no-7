@@ -1,4 +1,3 @@
-/
 
 package javaex7;
 import java.util.*;
